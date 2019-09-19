@@ -3,7 +3,9 @@
 The [The multilayered European Soil Hydraulic Database (EU-SoilHydroGrids ver1.0)](https://esdac.jrc.ec.europa.eu/content/3d-soil-hydraulic-database-europe-1-km-and-250-m-resolution) downloadable from the EU Joint Research Centre
 European Soil Data Centre (ESDAC) is a fantastic resource. It is a high resolution collection of tiled Geotiff files of various hydraulic soil parameters ( [Tóth et al., 2015](https://doi.org/10.1002/hyp.11203)), gridded over all of Europe. However, we found it difficult to find the right tiles for our catchment area.
 
-So, we created a polygon layer (available as SHP and GPKG) in 3 main useful projections for a more easy navigation, in order to support quick identification of your desired EU-SoilHydroGrids 250m GeoTiff tile folders (see below for a visualisation of the grid tiles over an OSM basemap). The polygon layers are available in the [data](./data) folder.
+So, we created a polygon layer (available as SHP and GPKG) in 3 main useful projections for a more easy navigation, in order to support quick identification of your desired EU-SoilHydroGrids 250m GeoTiff tile folders (see below for a visualisation of the grid tiles over an OSM basemap). The polygon layers are available in the [data](./data) folder and as a tagged archive from Zenodo:
+
+[![DOI](https://zenodo.org/badge/209497133.svg)](https://zenodo.org/badge/latestdoi/209497133)
 
 ![Grid Tiles over OSM basemap](grid_cells_250m_europe.png)
 
